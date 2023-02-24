@@ -2,9 +2,31 @@
   height: 250px;
   width:max-content;
 }
-.card{
-  width:max-content;
+.btn-btn-primary2
+{
+  color: blue;
+
 }
+.btn-btn-primary1
+{
+  color: blue;
+}
+.img1{
+  height:max-content;
+  width: max-content;
+}
+
 .veman{
   color: brown;
 }
+/* .card:hover img{
+  transform: scale(1,2,1,2);
+  transition-duration: 500ms;
+  transition-timing-function: ease-out
+
+}
+.card img{
+transform: scale(1,1);
+transition-duration: 500ms;
+transition-timing-function: ease-out
+} */
